@@ -73,7 +73,7 @@ Below is a comparison of commercial conversational AI and customer support platf
 
 Below is a curated selection of open-source conversational AI frameworks, agent builders, speech engines, and self-hosted helpdesk platforms, sorted in descending order by GitHub stargazers count ⭐.
 
-| Project | GitHub Stars | License | Primary Tech Stack | Description & Category |
+| Project | GitHub_Stars | License | Primary Tech Stack | Description & Category |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** [![Stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white)](https://github.com/Significant-Gravitas/AutoGPT/stargazers) | 187k+ | MIT | Python / TypeScript | Autonomous AI agent platform and ecosystem capable of multi-step planning, task execution, and complex conversational problem solving. 🧠 |
 | **[langgenius/dify](https://github.com/langgenius/dify)** [![Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers) | 159k+ | Apache 2.0 | Python / TypeScript | Open-source LLM app development platform combining visual prompt engineering, agentic orchestration, RAG pipelines, and conversational chat interfaces. 🧩 |
