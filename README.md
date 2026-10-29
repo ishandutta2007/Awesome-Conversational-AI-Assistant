@@ -1,193 +1,99 @@
 # Awesome-Conversational-AI-Assistant
 
-# Awesome-Conversational-AI-Assistant
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Conversational-AI-Assistant/pulls)
 
-**Top Conversational AI Assistant (Opensource) 🌟 Star if you like it! 🌟**
+**Curated Directory of Enterprise SaaS Solutions & Open-Source Projects for Conversational AI Assistants, AI Agents, and Customer Support Automation**
 
-
-
-**Curated List of SaaS Products & Open-Source GitHub Projects**
-
-*Focused on Customer Support Automation, Agentic Resolution, Omnichannel Engagement & Self-Hosted Helpdesk AI*
+*Focused on Agentic Workflow Resolution, Omnichannel Customer Engagement, Autonomous Voice Agents, and Self-Hosted Helpdesk Infrastructure.*
 
 **Last updated: October 2026**
 
+---
 
+## Overview & Highlights
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Conversational AI Assistants**. These tools enable organizations to automate customer support, resolve tickets, and engage customers across chat, email, and voice—from fully managed enterprise AI agents with self-learning resolution loops and multimodal interfaces to self-hosted helpdesk platforms and conversational AI frameworks that give teams control over their data and model integrations.
+This repository tracks notable **SaaS platforms** and **open-source frameworks** powering modern **Conversational AI Assistants**. These technologies empower businesses and engineering teams to automate multi-turn customer support, resolve complex inquiry workflows, and engage users seamlessly across web chat, mobile apps, social messengers, email, and voice.
 
-
-
-**Examples** include Shopify Sidekick, Gorgias AI, Intercom Fin, Zendesk AI, Forethought, Ada, Kustomer IQ, Tidio Lyro, Sierra AI, and Decagon (the category leaders in commercial space).
-
-
-
-**Open-source emphasis**: This section is expanded with every relevant project for self-hosting, AI-assisted support, and open conversational AI infrastructure. **Critical note**: True open-source conversational AI assistants—production-grade agents with self-learning resolution loops, multimodal interfaces, and enterprise integrations—are extremely sparse. The projects below provide **helpdesk platforms with AI assistance** or **conversational AI frameworks** you build upon, not turnkey SaaS replacements.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-
-
-- **[Shopify Sidekick](https://www.shopify.com/)**
-
-  **Shopify's built-in AI agent** for merchants, operating directly within the Shopify admin. Sidekick understands store data, business context, and Shopify workflows—guiding setup, analyzing performance, and executing tasks via a library of skills (e.g., `/weekly-summary`, `/product-description`, `/social-posts`). App extensions from partners like Printful, Smile.io, and Notify Me! extend Sidekick's context to third-party app data . **Pricing**: Included with Shopify plans. **Free tier**: None beyond Shopify subscription. **Best for**: Shopify merchants wanting an embedded AI assistant for store operations without additional integrations.
-
-
-
-- **[Gorgias AI](https://www.gorgias.com/)**
-
-  **Conversational commerce platform** with an AI Agent that resolves up to **52% of support tickets** (including WISMO queries) by pulling tracking data from ShipBob, ShipMonk, and AfterShip. Includes a Shopping Assistant that detects shopper behavior to prevent returns and boost AOV with upsells . **Pricing**: Quote-only; tiered by ticket volume. **Free tier**: None. **Best for**: e-commerce brands wanting support automation tightly coupled with shopping behavior and order data.
-
-
-
-- **[Intercom Fin](https://fin.ai/)** (now **Fin**)
-
-  **Customer Agent** (formerly Intercom's Fin AI Agent) with a purpose-built in-house AI model (**Apex 1.0**). Resolves **1M+ tickets weekly** and is positioned as the leader in AI-powered customer service. Fin learns from successfully resolved interactions and escalates automatically when topics are sensitive or unclear . **Pricing**: Quote-only; per-resolution models available. **Free tier**: Trial available. **Best for**: enterprises wanting a proven, high-volume AI resolution engine with continuous learning from successful conversations.
-
-
-
-- **[Zendesk AI](https://www.zendesk.com/)**
-
-  **Autonomous Service Workforce** within the Zendesk Resolution Platform. AI agents are **generally available** across messaging, email, voice, and backend systems, with a **Resolution Learning Loop** that improves agents over time. **Agent Builder** (early access) lets teams create Custom Agents using natural language. Recent acquisition of **Forethought** extends self-improving agents to external platforms. Includes Agent Copilot, Admin Copilot, and Knowledge Copilot for human teams . **Pricing**: Quote-only; bundled with Zendesk suite. **Free tier**: None. **Best for**: Zendesk customers wanting agentic resolution deeply integrated with their existing service operations.
-
-
-
-- **[Forethought](https://forethought.ai/)**
-
-  **Agentic AI for customer support** with **Autoflows** technology. **Forethought Voice** (launched 2026) uses Autoflows to act on customers' behalf over the phone—accessing order systems, tracking packages, and resolving issues without human handoff. Claims 67% of consumers would rather "watch paint dry" than endure a frustrating support call . **Note**: Acquired by Zendesk; standalone availability may change. **Pricing**: Quote-only. **Free tier**: None. **Best for**: organizations prioritizing voice channel automation with actionable resolution, not just information retrieval.
-
-
-
-- **[Ada](https://www.ada.cx/)**
-
-  **Agentic Customer Experience** platform with AI agents that connect to reservation, inventory, loyalty, and CRM systems to **take action** (e.g., rebook disrupted flights) rather than just answer questions. Serves **60 languages** across messaging, voice, and email. Achieved AWS Travel and Hospitality Competency in 2026 . **Pricing**: Quote-only. **Free tier**: None. **Best for**: travel, hospitality, and enterprises needing deep system integrations for end-to-end resolution.
-
-
-
-- **[Kustomer IQ](https://www.kustomer.com/)**
-
-  **Conversation Intelligence** within Kustomer's CRM platform. Uses AI to classify conversations, score interactions, and extract structured data (order numbers, contact reasons, competitor mentions) from unstructured customer interactions. Outputs feed workflows, routing, and reporting . **Pricing**: Quote-only. **Free tier**: None. **Best for**: Kustomer users wanting AI-derived structured data from every conversation to power automation and analytics.
-
-
-
-- **[Tidio Lyro](https://www.tidio.com/)**
-
-  **Conversational AI agent** for live chat, email, and messaging channels (Messenger, Instagram, WhatsApp). Supports **47 languages**, custom audiences for instant human handoff, and Guidance instructions to shape behavior. Can access selected Contact Properties during conversations . **Pricing**: Tiered plans; free tier available. **Free tier**: Yes, with limited Lyro conversations. **Best for**: small and mid-size businesses wanting accessible AI chat automation with multi-channel support.
-
-
-
-- **[Sierra AI](https://sierra.ai/)**
-
-  **Conversational AI platform** with **multimodal agents** that shift between voice, text, and visual interfaces within a single conversation. MCP UI integration lets teams bring product cards, comparison tables, and forms directly into the chat. Build once, deploy across all surfaces . **Pricing**: Quote-only. **Free tier**: None. **Best for**: enterprises wanting rich, visual conversational experiences for complex purchases or support scenarios.
-
-
-
-- **[Decagon](https://decagon.ai/)**
-
-  **AI concierge** for customer support and beyond. **Voice 3** combines duplex architecture with **Chord**, a voice model purpose-built for customer conversations. **Personal Agent Gateway** identifies and serves customers' personal AI agents with defined permissions. **Agent Modules** extend beyond support into lead qualification, onboarding, and collections . **Pricing**: Quote-only. **Free tier**: None. **Best for**: forward-looking enterprises preparing for agent-to-agent interactions and multi-journey AI concierge experiences.
-
-
-
-## Open-Source GitHub Projects
-
-
-
-- **[Inbxer](https://github.com/inbxer/inbxer)**
-
-  **Open-source, AI-powered customer support platform** (MIT) — **the most purpose-built open-source helpdesk with AI assistance** found in this research. **Features**: Account-aware design for B2B SaaS (customer context beside every conversation); **six focused AI agents** (Support Reply, Thread Summary, Thread Urgency, Thread Labeling, Thread Title, Tone Rules) that draft and organize work with **human approval required** before anything reaches a customer; unified queue across email, Slack, and embedded chat; rule-based workflows with SLA targets; CSAT surveys and reporting; Docker Compose deployment with MySQL, Redis, and Laravel Reverb . **Tech stack**: Laravel (PHP), MySQL, Redis, Docker. **Deploy**: Self-hosted (`docker compose up -d --build`). **Trade-off**: **AI assists, it does not autonomously resolve**—the design philosophy is "AI drafts. Humans decide." No voice channel, no self-learning resolution loop, no multimodal interfaces. **Best for**: B2B SaaS teams wanting a self-hosted helpdesk with AI drafting and summarization while keeping humans in control of every customer reply.
-
-
-
-- **[Rasa Open Source](https://github.com/RasaHQ/rasa)**
-
-  **Open-source conversational AI framework** (Apache 2.0) — **the most widely adopted open-source framework for building chat and voice assistants**, with **25M+ downloads**. **Features**: Understands and holds conversations; connects to messaging channels and third-party systems via APIs; supplies building blocks for custom virtual assistants. **Rasa Pro** (commercial, open-core) adds analytics, security, and observability for enterprise needs . **Tech stack**: Python. **Deploy**: Self-hosted. **Trade-off**: **Framework, not a product**—you build the assistant, train NLU models, define dialogue flows, and integrate your own backend systems. No pre-built helpdesk UI, no out-of-the-box resolution engine. **Best for**: developers and ML teams wanting full control over a custom conversational assistant with on-premise deployment and no vendor lock-in.
-
-
-
-- **[Chatwoot](https://github.com/chatwoot/chatwoot)** *(not in search results, included for ecosystem completeness)*
-
-  **Open-source customer engagement platform** (MIT) with live chat, email, and social channels. **Note**: Chatwoot provides the helpdesk foundation; AI capabilities are available through integrations or the Captain AI feature (paid). It is not a turnkey AI agent but a self-hosted alternative to Intercom's inbox layer.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **Botpress** — Open-source conversational AI platform (MIT for core) with visual flow builder and LLM integrations. **Note**: General-purpose bot building, not a support-specific AI agent. **Best for**: developers building custom conversational flows.
-
-- **OpenChat** — Self-hosted chat UI for LLMs (Apache 2.0). **Note**: Interface for chatting with models, not a customer support agent. **Best for**: teams wanting a private ChatGPT-like interface.
-
-
-
-**Frameworks for building custom systems**: Combine **Inbxer** for AI-assisted helpdesk operations with **Rasa** for custom conversational flows and **Chatwoot** for multi-channel inbox management—creating an open-source support automation stack. **None of these provide the self-learning resolution loops, multimodal interfaces, or agent-to-agent gateways** that Zendesk, Sierra, and Decagon are shipping. Those require commercial platforms.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, license (for open-source), and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Conversational AI platforms handling customer conversations and personal data must comply with data protection regulations (GDPR, CCPA, etc.) and implement appropriate access controls and conversation retention policies.
-
-- **The "agentic resolution" vs. "AI-assisted helpdesk" vs. "conversational framework" distinction is critical.** **Gorgias, Intercom Fin, Zendesk AI, Forethought, Ada, Kustomer IQ, Tidio Lyro, Sierra, and Decagon** are **AI agents**—they autonomously resolve customer issues, take actions in backend systems, and learn from interactions. **Shopify Sidekick** is an **admin assistant** for merchants, not customer support. **Inbxer** is an **AI-assisted helpdesk**—it drafts and summarizes but requires human approval for every reply . **Rasa** is a **framework**—you build the assistant yourself . **No open-source project replicates the autonomous resolution of Zendesk AI or Intercom Fin.**
-
-- **Inbxer is the most production-oriented open-source support tool with AI** in this list, but its philosophy is deliberately conservative: **"AI drafts. Humans decide."**  It does not autonomously resolve tickets, has no voice channel, and does not learn from resolved conversations. **This is a feature, not a bug**—for teams that prioritize control over automation, it is the right choice. For teams wanting autonomous resolution, it is not.
-
-- **Rasa is the most mature open-source conversational AI framework** (25M+ downloads), but it is a **builder's tool**, not a product . You get complete control and on-premise deployment, but you also own NLU training, dialogue design, backend integrations, and ongoing maintenance. **It is the opposite of a turnkey AI agent.**
-
-- **Zendesk's acquisition of Forethought** consolidates the AI agent market further . Forethought's standalone availability may change—verify current offerings before committing.
-
-- **Intercom's rebrand to Fin** reflects a strategic bet that the AI agent *is* the product, not a feature of the helpdesk . **Evaluate whether you want an AI-first vendor or a helpdesk with AI added.**
-
-- **Pricing opacity is universal across commercial vendors.** Gorgias, Intercom Fin, Zendesk AI, Forethought, Ada, Kustomer IQ, Sierra, and Decagon all require sales contact for quotes. Tidio Lyro publishes tiered plans. Shopify Sidekick is included with Shopify. **Validate with direct vendor conversations against your actual ticket volume and resolution targets.**
-
-- Self-hosted open-source solutions require proper server setup, security hardening, and ongoing maintenance. **Customer conversations contain sensitive data**—ensure your deployment meets your organization's privacy and security requirements before handling live customer interactions.
-
-
+Solutions span from turnkey enterprise AI customer service agents equipped with self-learning resolution loops and multimodal interfaces, to fully controllable, self-hosted open-source helpdesk software and conversational AI agent orchestration frameworks.
 
 ---
 
+## Sector Overview & Market Dynamics
 
+The global conversational AI and AI customer service market is valued at **$14B–$19B**, rapidly scaling toward **$75B–$140B+** by the mid-2030s at a 23–25% CAGR. The sector is **highly fragmented**, characterized by fierce competition across enterprise CRM incumbents, hyperscale cloud vendors, and specialized agentic startups, though accelerating M&A consolidations are steadily unifying omnichannel chat, voice, and workflow automation into centralized platform ecosystems.
 
-**Made for developers, support teams, and organizations building transparent conversational AI solutions.**
+---
 
-Let's make Conversational AI Assistants more open, data-driven, and customer-friendly.
+## Table of Contents
+
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+- [Commercial SaaS Platforms](#commercial-saas-platforms)
+- [Open-Source GitHub Projects](#open-source-github-projects)
+- [How to Contribute](#how-to-contribute)
+- [Disclaimer](#disclaimer)
+
+---
+
+## Commercial SaaS Platforms
+
+Below is a comparison of commercial conversational AI and customer support platforms, sorted in descending order by estimated company valuation / market size.
+
+| Platform | Company Scale / Valuation | Starting Pricing Tier | Free Tier / Trial Limits | Key Capabilities & Best For |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Shopify Sidekick](https://www.shopify.com/)** | **~$210B–$225B** Market Cap (~$11.6B Rev) | **$39/mo** (Basic monthly; $29/mo billed annually) | **3-day free trial**; no live transactions permitted during trial | Embedded merchant AI agent that interacts directly with store operations, inventory context, customer analytics, and app skills. Best for Shopify merchants. |
+| **[Sierra AI](https://sierra.ai/)** | **$10B–$15B** Valuation (~$150M+ ARR) | **~$150,000/yr** (Enterprise base contract + outcome rates) | **No free tier or trial**; custom enterprise POC only | Multimodal conversational agents switching across voice, text, and rich interactive visual UI components (product cards, tables). Best for large enterprises. |
+| **[Zendesk AI](https://www.zendesk.com/)** | **$10.2B** Buyout Valuation (~$2B ARR) | **$19/agent/mo** (Support Team) / **$55/agent/mo** (Suite Team) | **14-day free trial**; access to Suite Professional features & AI testing | Autonomous customer service agents with resolution learning loops, copilot tools, and natural language custom agent builders. Best for Zendesk service teams. |
+| **[Decagon](https://decagon.ai/)** | **$4.5B** Valuation (Series D) | **~$50,000/yr** platform base (~$0.50–$2.00 per resolution/conversation) | **No free tier or trial**; enterprise sales demonstration only | Autonomous AI customer concierge with Voice 3 duplex speech, personal agent gateways, and multi-journey resolution. Best for enterprise CX teams. |
+| **[Intercom Fin](https://fin.ai/)** | **$3.6B** Acquisition Valuation (~$400M ARR) | **$29/seat/mo** (Essential plan) + **$0.99 per resolution** | **14-day free trial**; full access to core inbox and Fin agent sandbox | Dedicated AI customer agent powered by proprietary Apex 1.0 architecture with outcome-based pricing for automated resolutions. Best for scaling web and SaaS businesses. |
+| **[Ada](https://www.ada.cx/)** | **$1.2B** Valuation (~$70M+ ARR) | **~$30,000–$33,000/yr** ($2,500+/mo baseline commitment) | **No free tier or trial**; custom sales evaluation only | Agentic customer experience platform serving 60+ languages across chat, voice, and email with deep booking/CRM backend integrations. Best for travel and hospitality. |
+| **[Gorgias AI](https://www.gorgias.com/)** | **$530M** Valuation (~$70M ARR) | **$10/mo** (Starter base + 50 tickets/mo bundle; $0.40/overage) | **7-day free trial**; outbound email sending throttled, no public Help Center | E-commerce conversational support platform resolving up to 52% of tickets natively via Shopify, BigCommerce, and 3PL shipping integrations. Best for direct-to-consumer brands. |
+| **[Forethought](https://forethought.ai/)** | **~$117M** Total Funding (Acquired by Zendesk) | **~$25,000/yr** enterprise baseline (Quote-only) | **No free tier or trial**; sales demo required | Autoflows agentic reasoning engine for support ticketing and autonomous voice-based phone support resolution. Best for mid-market to enterprise contact centers. |
+| **[Kustomer IQ](https://www.kustomer.com/)** | **~$250M** Valuation (~$25M+ ARR) | **$89/user/mo** (Enterprise tier; minimum 8 seats = **$712/mo**) | **No free tier or trial**; annual contract commitment only | AI conversation intelligence providing customer sentiment tracking, entity extraction, and intent classification across unified timelines. Best for CRM-first operations. |
+| **[Tidio Lyro](https://www.tidio.com/)** | **~$100M–$250M** Valuation (~$40M ARR) | **$29/mo** (Starter) / Lyro add-on from **$39/mo** | **Free forever plan** (50 live chats/mo, 100 flow visitors) + **50 lifetime Lyro AI conversations** | Omnichannel conversational AI bot with quick setup across live chat, Messenger, WhatsApp, and Instagram. Best for small-to-medium businesses. |
+
+---
+
+## Open-Source GitHub Projects
+
+Below is a curated selection of open-source conversational AI frameworks, agent builders, speech engines, and self-hosted helpdesk platforms, sorted in descending order by GitHub stargazers count.
+
+| Project | GitHub Stars | License | Primary Tech Stack | Description & Category |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** [![Stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white)](https://github.com/Significant-Gravitas/AutoGPT/stargazers) | 187k+ | MIT | Python / TypeScript | Autonomous AI agent platform and ecosystem capable of multi-step planning, task execution, and complex conversational problem solving. |
+| **[langgenius/dify](https://github.com/langgenius/dify)** [![Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers) | 159k+ | Apache 2.0 | Python / TypeScript | Open-source LLM app development platform combining visual prompt engineering, agentic orchestration, RAG pipelines, and conversational chat interfaces. |
+| **[open-webui/open-webui](https://github.com/open-webui/open-webui)** [![Stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white)](https://github.com/open-webui/open-webui/stargazers) | 157k+ | Open Software License | Svelte / Python | Extensible, self-hosted, user-friendly conversational AI interface designed to operate locally or connect with Ollama and OpenAI-compatible APIs. |
+| **[langchain-ai/langchain](https://github.com/langchain-ai/langchain)** [![Stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social&color=white)](https://github.com/langchain-ai/langchain/stargazers) | 148k+ | MIT | Python | The de facto framework for building context-aware reasoning applications, conversational chatbots, and tool-augmented autonomous AI agents. |
+| **[coqui-ai/TTS](https://github.com/coqui-ai/TTS)** [![Stars](https://img.shields.io/github/stars/coqui-ai/TTS?style=social&color=white)](https://github.com/coqui-ai/TTS/stargazers) | 46k+ | MPL 2.0 | Python | Deep learning toolkit for Text-to-Speech synthesis powering natural, ultra-low-latency voice outputs for conversational AI voice agents. |
+| **[chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)** [![Stars](https://img.shields.io/github/stars/chatchat-space/Langchain-Chatchat?style=social&color=white)](https://github.com/chatchat-space/Langchain-Chatchat/stargazers) | 38k+ | Apache 2.0 | Python | Complete RAG and conversational assistant solution based on local knowledge bases, LangChain, and self-hosted LLMs. |
+| **[chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)** [![Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers) | 38k+ | MIT | Ruby on Rails / Vue | Self-hosted omnichannel customer engagement platform connecting email, website live chat, WhatsApp, and social inboxes with AI assistant hooks. |
+| **[deepset-ai/haystack](https://github.com/deepset-ai/haystack)** [![Stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social&color=white)](https://github.com/deepset-ai/haystack/stargazers) | 26k+ | Apache 2.0 | Python | Modular enterprise framework for building production-ready search systems, conversational agents, and multi-modal RAG pipelines. |
+| **[livekit/livekit](https://github.com/livekit/livekit)** [![Stars](https://img.shields.io/github/stars/livekit/livekit?style=social&color=white)](https://github.com/livekit/livekit/stargazers) | 21k+ | Apache 2.0 | Go / WebRTC | Real-time audio and video infrastructure platform powering low-latency conversational voice agents and duplex voice bots. |
+| **[RasaHQ/rasa](https://github.com/RasaHQ/rasa)** [![Stars](https://img.shields.io/github/stars/RasaHQ/rasa?style=social&color=white)](https://github.com/RasaHQ/rasa/stargazers) | 21k+ | Apache 2.0 | Python | Industry-standard open-source conversational AI framework with natural language understanding (NLU), dialogue management, and customizable pipelines. |
+| **[livekit/agents](https://github.com/livekit/agents)** [![Stars](https://img.shields.io/github/stars/livekit/agents?style=social&color=white)](https://github.com/livekit/agents/stargazers) | 14k+ | Apache 2.0 | Python / TypeScript | Framework specifically tailored for building real-time, bidirectional voice and multimodal AI assistants with sub-second response times. |
+| **[botpress/botpress](https://github.com/botpress/botpress)** [![Stars](https://img.shields.io/github/stars/botpress/botpress?style=social&color=white)](https://github.com/botpress/botpress/stargazers) | 14k+ | AGPLv3 / Elastic | TypeScript | Developer platform for constructing next-generation chatbots and conversational assistants with visual workflow logic and LLM orchestration. |
+| **[Chainlit/chainlit](https://github.com/Chainlit/chainlit)** [![Stars](https://img.shields.io/github/stars/Chainlit/chainlit?style=social&color=white)](https://github.com/Chainlit/chainlit/stargazers) | 12k+ | Apache 2.0 | Python / React | Python framework that enables developers to build ChatGPT-like conversational web applications, custom agent interfaces, and multi-modal assistants in minutes. |
+| **[papercups-io/papercups](https://github.com/papercups-io/papercups)** [![Stars](https://img.shields.io/github/stars/papercups-io/papercups?style=social&color=white)](https://github.com/papercups-io/papercups/stargazers) | 6k+ | MIT | Elixir / TypeScript | Open-source customer messaging platform for web chat, email, and Slack integrations, providing an extensible customer inbox layer. |
+| **[opencx-labs/OpenChat](https://github.com/opencx-labs/OpenChat)** [![Stars](https://img.shields.io/github/stars/opencx-labs/OpenChat?style=social&color=white)](https://github.com/opencx-labs/OpenChat/stargazers) | 5k+ | MIT | Python / Next.js | No-code/low-code console for creating custom conversational AI chatbots trained on private PDFs, websites, and data sources. |
+| **[inbxer/inbxer](https://github.com/inbxer/inbxer)** [![Stars](https://img.shields.io/github/stars/inbxer/inbxer?style=social&color=white)](https://github.com/inbxer/inbxer/stargazers) | 3+ | MIT | PHP (Laravel) / MySQL | Purpose-built AI-assisted B2B helpdesk with 6 specialized agents focusing on drafts, summaries, and categorization where humans maintain final reply approval. |
+
+---
+
+## How to Contribute
+
+Contributions, project suggestions, and documentation enhancements are always welcome!
+
+1. **Fork the repository** to your GitHub account.
+2. **Add or update an entry** in `README.md` conforming strictly to the table format.
+3. For SaaS platforms: Provide specific starting price tiers, detailed free trial limits, and current company scale indicators.
+4. For Open-Source projects: Include repo link, stargazers badge (`style=social&color=white`), license, tech stack, and concise description.
+5. **Submit a Pull Request (PR)** with a summary of changes.
+
+---
+
+## Disclaimer
+
+- This directory is community-curated for informational and architectural guidance; it does not constitute an explicit product endorsement.
+- All conversational AI platforms collecting customer inquiries, chat transcripts, or voice telemetry must adhere to relevant compliance and privacy laws (e.g., GDPR, CCPA, HIPAA, SOC 2).
+- Commercial pricing, free tier limits, and corporate valuations fluctuate over time. Always verify current offerings with respective service providers prior to enterprise procurement.
